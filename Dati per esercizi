@@ -1,0 +1,15 @@
+Marco = {
+    'Matematica': [8, 7,5,9],
+    'Italiano': [6, 5, 7],
+    'Scienze': [7, 8, 6]
+}
+Sara = {
+    'Matematica': [9, 8, 5,7, 10],
+    'Italiano': [7, 8, 7],
+    'Storia': [6, 6, 7, 7]
+}
+Luca = {
+    'Fisica': [5, 6, 4],
+    'Storia': [8, 7, 4, 9],
+    'Inglese': [7, 6, 7]
+}
